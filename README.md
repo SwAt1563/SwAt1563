@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
  
 <div align="center">
 
-  <a href="">![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+  <a href="https://www.youtube.com/channel/UCs2ZNSfrs6EKeByw81Ftjzg">![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
 
 </div>
