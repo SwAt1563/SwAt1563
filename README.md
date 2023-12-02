@@ -11,7 +11,7 @@
 - 💻 I’m Currently Learning Full-Stack Web Development
 - 🎓 Computer Engineer with Bachelor's degree from Birzeit University
 - 📫 How to Reach Me swat.ar123@gmail.com
-- My [CV](https://swat1563.github.io/my-cv/)
+- 💫 [CV](https://swat1563.github.io/my-cv/)
 
 <!---
 SwAt1563/SwAt1563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
