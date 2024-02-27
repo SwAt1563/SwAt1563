@@ -71,8 +71,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href = "mailto:swat.ar123@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
   <a href = "https://www.linkedin.com/in/qutaiba-olayyan/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
- 
- 
+  
 </p>
 <br />
 <h6 align="center" ><i>⚡If You Take The Design Please Star The Repo ⭐</i></h6>
