@@ -6,12 +6,16 @@
 
 <h1>About Me 📌</h1>
 
-- 👋 Hi, I’m Qutaiba Olayyan
-- 👨‍💻 I’m Interested in AI & ML Fields and Competitive Programming
-- 💻 I’m Currently Learning Full-Stack Web Development
-- 🎓 Computer Engineer with Bachelor's degree from Birzeit University
-- 📫 How to Reach Me qutaibaolayyan@gmail.com
-- 💫 [CV](https://swat1563.github.io/my-cv/)
+A Software Engineer with over 7 years of international experience, including 4 years specializing in AI. I bring strong technical expertise and cross-cultural communication skills to every project. I have successfully led multiple GenAI initiatives, designed and implemented scalable system architectures that provided real value. 
+
+- I speak English, Python and Product! 
+- Worked remotely for companies across Qatar, Germany, and Canada.
+- Designed, developed and implemented AI products across tech, hospitality, property management, and HR.
+- Led 3 Generative AI projects simultaneously for different clients, bridging the gap between engineering and product teams.
+- Led teams and a total of 13 engineers, focusing on their career growth and delivery.
+- Began programming in high school, well before university, fueled by a passion for creating.
+- Strong academic and research background, mentored dozens of students.
+- Passionate about ML, and GenAI, as well as efficient and effective backend, system architecture, and database design.
 
 <!---
 SwAt1563/SwAt1563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +30,7 @@ You can click the Preview link to take a look at your changes.
  
 <div align="center">
 
-  <a href="https://www.youtube.com/channel/UCs2ZNSfrs6EKeByw81Ftjzg">![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+  <a href="https://www.youtube.com/@SwAt1563">![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
 
 </div>
