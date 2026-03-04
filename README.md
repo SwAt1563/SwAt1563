@@ -10,8 +10,8 @@ A Software Engineer with over 7 years of international experience, including 4 y
 
 - **I speak English, Python and Product!** 
 - Worked remotely for companies across **Qatar, Germany, and Canada**.
-- Designed, developed and implemented AI products across **tech, hospitality, property management, and HR**.
-- **Led 3 Generative AI projects** simultaneously for different clients, bridging the gap between engineering and product teams.
+- Designed, developed and implemented AI products across **tech, hospitality, property management, and Recruitment**.
+- **Led 4 Generative AI projects** simultaneously including voice agents for different clients, bridging the gap between engineering and product teams.
 - **Led teams and a total of 13 engineers**, focusing on their career growth and delivery.
 - Began programming in high school, well before university, fueled by a passion for creating.
 - Strong academic and research background, mentored dozens of students.
